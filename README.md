@@ -1,4 +1,4 @@
 Hi there 👋
 
-- 🌱 I’m currently learning JavaScript, SQL, Node, React, HTML, CSS
+- 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me: @vitorcruzs
